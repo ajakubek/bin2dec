@@ -1,0 +1,3 @@
+**/*.asc
+**/*.blif
+/test_bin2dec

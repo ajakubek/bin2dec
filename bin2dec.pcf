@@ -1,0 +1,39 @@
+set_io CLK 15
+set_io A0 51
+set_io A1 52
+set_io A2 53
+set_io A3 54
+set_io A4 56
+set_io A5 57
+set_io A6 59
+set_io A7 60
+
+set_io B0 64
+set_io B1 65
+set_io B2 66
+set_io B3 68
+set_io B4 69
+set_io B5 71
+set_io B6 72
+set_io B7 73
+
+set_io C0 78
+set_io C1 79
+set_io C2 80
+set_io C3 81
+set_io C4 82
+set_io C5 83
+set_io C6 85
+set_io C7 86
+
+set_io D0 87
+set_io D1 89
+set_io D2 90
+set_io D3 91
+set_io D4 93
+set_io D5 94
+set_io D6 95
+set_io D7 96
+
+set_io E0 99
+set_io E1 100
